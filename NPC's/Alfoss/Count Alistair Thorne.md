@@ -1,0 +1,12 @@
+Background:   
+Count Alistair Thorne is a seasoned human politician who rose to prominence through his charisma, cunning, and political maneuvering. Born into a noble family with a long history of public service, Alistair inherited the title of Count and took it upon himself to govern the troubled city of [[Hyelanis/Bastion Reach/Alfoss/Alfoss]].  
+Position:  
+As the Count of [[Hyelanis/Bastion Reach/Alfoss/Alfoss]], Alistair acts as the de facto mayor, though his authority is constantly challenged by the various criminal factions that control different parts of the city. Despite his best efforts, [[Hyelanis/Bastion Reach/Alfoss/Alfoss]] remains a city plagued by crime, corruption, and political intrigue.  
+Challenges:  
+[[Hyelanis/Bastion Reach/Alfoss/Alfoss]] is a city divided, with several powerful criminal syndicates vying for control of its streets. Count Thorne struggles to maintain order and stability in the face of constant challenges from these factions. Bribery, extortion, and violence are rampant, making it difficult for law-abiding citizens to live peaceful lives.  
+Strategies:  
+Count Thorne employs a mix of diplomacy, negotiation, and sometimes coercion to try to keep the peace in [[Hyelanis/Bastion Reach/Alfoss/Alfoss]]. He forms tenuous alliances with certain factions while working to undermine others. He also invests heavily in law enforcement and tries to root out corruption within the city guard and government bureaucracy.  
+Characteristics:  
+==Despite the grim reality of governing a crime-ridden city, Count Thorne is known for his unwavering determination and sense of duty. He is a skilled orator and adept at navigating the treacherous waters of political intrigue. However, he also has his flaws, including a tendency to prioritize his own interests over those of the city's most vulnerable residents.==  
+Ambitions:  
+==Count Thorne dreams of transforming [[Hyelanis/Bastion Reach/Alfoss/Alfoss]] into a safe and prosperous city where law and order prevail. However, he knows that achieving this goal will require him to make difficult decisions and confront powerful enemies. Despite the odds stacked against him, he refuses to give up hope that [[Hyelanis/Bastion Reach/Alfoss/Alfoss]] can one day be a beacon of justice and civilization in the region.==

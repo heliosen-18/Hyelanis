@@ -1,0 +1,1 @@
+Follow the Baincola River that flows westerly from Siren Mott through [[The Moss Wall]] at Demon watch into the World Break. Once passed the Demon Watch you must follow the Baincola until you come across a field of mounds full of death. There you must find the Crypt of the Old Gods, and there is where the Book you seek lies.

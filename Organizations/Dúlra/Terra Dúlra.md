@@ -1,0 +1,1 @@
+Located in the Savamere Mountains near [[Black Harbor|Black Harbor]], on the border of [[Bastion Reach]] and [[Finehold]], at Black Peak Mountain, where a rift to the Plane of Earth is.

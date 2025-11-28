@@ -1,0 +1,1 @@
+Located in-between Olydin and Benhold in the Boiling Flats, an area called Flaming Straight, where a rift to the Plane of Fire is.

@@ -1,0 +1,56 @@
+**Notable Points of Interest in [[Val Taruum]]**
+
+- **The Diarchs' Hold**
+    - Location: Atop the Unification Bridge, spanning the inlet that divides [[Val Taruum]].
+    - Description: The capital palace, built atop the Unification Bridge, featuring distinct dwarven and gnomish wings and a central council chamber. The dwarven wing is characterized by its sturdy stonework and intricate carvings, while the gnomish wing is adorned with whimsical clockwork decorations and vibrant stained glass. The central council chamber is a grand hall where the dwarven and gnomish monarchs meet to discuss matters of governance.
+    - Notable NPCs:
+        - Head Councilor Borin Stonecutter (Dwarf): A respected elder and advisor to King Stonebrow, known for his wisdom and knowledge of dwarven history.
+        - Councilor [[Willow Whisperwind]] (Gnome): A representative of Queen Glimmerwing, known for her diplomatic skills and ability to bridge cultural divides.
+- **The Forges of An'dul Khaz'al**
+    - Location: Deep within the Carven City, the dwarven district carved into the mountainside.
+    - Description: A complex of ancient, highly inaccessible forges where master smiths create legendary weapons and armor. The forges are said to be imbued with the power of Purphoros himself, and only the most skilled dwarven smiths are granted access to their fiery depths.
+    - Notable NPCs:
+        - Bardin Stonehammer (Dwarf): A master smith who forges legendary weapons in The Forges of An'dul Khaz'al. He is a gruff but fair teacher, passing on his skills to a select few apprentices.
+        - The Ancient Smith (Dwarf): A legendary figure who is said to have forged the first dwarven weapons. His spirit is believed to reside in The Forges of An'dul Khaz'al, guiding the hands of master smiths.
+- **The Stargazer's Eye**
+    - Location: Whisperwind Heights, the gnomish district built on the highest hills overlooking [[Val Taruum]].
+    - Description: A towering structure with a retractable roof that allows for unobstructed views of the stars. The observatory houses powerful telescopes and magical instruments used by gnomish astronomers to study the cosmos and chart the courses of airships.
+    - Notable NPCs:
+        - Stargazer Stella Skyseeker (Gnome): A renowned astronomer who spends her nights observing the constellations and making detailed star charts.
+        - Professor Thaddeus Gearwind (Gnome): An eccentric professor who teaches aspiring astronomers at the observatory. He is known for his unorthodox teaching methods and his fascination with comets.
+- **The Clockwork Heart**
+    - Location: The heart of Gearsmith Gardens, the gnomish district dedicated to innovation and invention.
+    - Description: A massive clockwork mechanism that regulates the flow of water throughout [[Val Taruum]], powering fountains, irrigation systems, and even some gnomish contraptions. The intricate gears and mechanisms are a testament to gnomish engineering prowess.
+    - Notable NPCs:
+        - Tinker Timbersprocket (Gnome): The chief engineer of the Great Gearworks, responsible for maintaining and repairing the intricate mechanism. He is always tinkering with the gears, trying to improve their efficiency.
+        - Whizbang Gizmogrind (Gnome): A young apprentice engineer who assists Tinker Timbersprocket. She is fascinated by the Great Gearworks and dreams of one day designing her own clockwork marvels.
+- **The Gnomish Academy of Invention**
+    - Location: Gearsmith Gardens, alongside the many workshops and studios.
+    - Description: A prestigious academy where young gnomes from across [[Finehold]] come to study the art of invention, magical engineering, and airship design. The academy fosters creativity and innovation, encouraging students to push the boundaries of what's possible.
+    - Notable NPCs:
+        - Professor Spark Brightbulb (Gnome): An eccentric inventor and professor who teaches aspiring young gnomes the secrets of magical engineering.
+        - Headmaster Gizelda Gearloose (Gnome): A stern but fair headmaster who oversees the academy and ensures that students uphold the highest standards of innovation and safety.
+- **The Crystalfall Market**
+    - Location: The bustling heart of the Crystalfall District, built around a series of cascading waterfalls.
+    - Description: A vibrant market where farmers, artisans, and merchants gather to sell their wares. The market is known for its fresh produce, handcrafted jewelry, and enchanted trinkets, all displayed amidst the refreshing spray of the waterfalls.
+    - Notable NPCs:
+        - Farmer Lily Sprout (Gnome): A friendly farmer who sells her homegrown fruits, vegetables, and herbs at the market. She is known for her delicious watercress and her cheerful demeanor.
+        - Jeweler Jasper Gemstone (Gnome): A skilled jeweler who crafts exquisite pieces of jewelry from the gems mined in the nearby mountains. He is known for his intricate designs and his keen eye for detail.
+- **The Great Library of Taruum**
+    - Location: The Carven City, nestled deep within the mountain.
+    - Description: A vast repository of dwarven knowledge, containing ancient scrolls, historical records, and detailed maps of the surrounding mountains and underground tunnels. The library is a place of quiet study and research, where scholars and historians come to learn about the rich history of the dwarves.
+    - Notable NPCs:
+        - Librarian Grimstone Stonecarver (Dwarf): A stern but knowledgeable librarian who oversees the collection and assists visitors in their research.
+        - Historian Beryl Deeprock (Dwarf): A renowned historian who specializes in the study of ancient dwarven runes and their connection to powerful magic.
+- **The Dwarven Mining Guild**
+    - Location: The Deepforge District, the industrial heart of [[Val Taruum]].
+    - Description: A powerful organization that oversees all mining operations in the region, ensuring the safe and efficient extraction of precious metals and gems. The guild is also responsible for training new miners and maintaining the integrity of the mines.
+    - Notable NPCs:
+        - Guildmaster Roric Stonefist (Dwarf): A veteran miner and leader of the guild, known for his strict adherence to safety regulations and his dedication to the well-being of his fellow miners.
+        - Foreman Bera Ironpick (Dwarf): A skilled miner and supervisor, responsible for overseeing daily operations in the mines and ensuring that production quotas are met.
+- **The Dwarven Museum of History**
+    - Location: The Anvilmount Ward, built on terraces carved into the mountainside.
+    - Description: A museum dedicated to preserving and showcasing the rich cultural heritage of the dwarves. The museum houses artifacts, tools, weapons, and artwork from throughout dwarven history, providing a glimpse into their traditions, craftsmanship, and contributions to the empire.
+    - Notable NPCs:
+        - Curator Dolgrim Stonebeard (Dwarf): A passionate curator who oversees the museum's collection and educates visitors about dwarven history and culture.
+        - Archivist Brunhilde Flint (Dwarf): A meticulous archivist who maintains the museum's records and ensures the preservation of its valuable artifacts.

@@ -1,0 +1,1 @@
+Located on the highest peak in the Brightdwell Mountains, called Mount Arvang, on the border of The Fable Lands and Vala Mere where a rift to the Plane of Air is.

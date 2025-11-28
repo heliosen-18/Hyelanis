@@ -1,0 +1,8 @@
+- [[Achete]] is [[Estrid]]'s Mom just brainwashed and bound to Raunaeril. And made into a Deathlock.
+- Has had the prophecy retold to him and puts two and two together that [[Estrid]] is the blood of a god it refers to.
+    - "When blood of fey and god meet at the crypt of blood and water"
+- Lineage is Raun was created when Erebos the Underking created a child with a Nosferatu which caused the creation of the first vampire. As he grew in power, the other gods began laying down curses upon Raun to weaken him and at the same time weaken the Underking.
+    - Heliod cursed him so that he couldn't step into the Sun.
+    - Nylea cursed him by giving him a weakness to silver and wooden stakes.
+    - Thassa cursed him by not allowing him to touch or pass through flowing water
+    - Ephara cursed him by not allowing him to enter places without formal agreements

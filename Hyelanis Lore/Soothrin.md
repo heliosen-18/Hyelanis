@@ -1,0 +1,3 @@
+- The continents of [[Hyelanis]] and Elamadour exist on this planet.
+- A moon named Nyx orbits the planet with a second small moon named Kerberos that orbits Nyx instead of Soothrin.
+-

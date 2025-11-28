@@ -1,0 +1,3 @@
+- Some of the gods, possibly the bright father, wish to restrain the all-seer so that he can take absolute power of the pantheon. The all-seer has forbade any direct actions by gods against gods and so if he is restrained they can enact their plans.
+- The Deceiver is grooming the PC's, as well as other people in the world, to be the seeds of power he requires to allow another to seize godhood. He needs them to grow in power and acclaim so that he can siphon this power from them to get to his final goal to upset the balance of the pantheon. He calls this group of people his Divine Seeds...
+    - The Deceiver will enact a spell to further his plans along that causes the heavens to cast out all of the angels.

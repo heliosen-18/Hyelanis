@@ -1,0 +1,5 @@
+- Gnome Family from session 0
+    - ~~Yola~~ & Davik Feebleleafs
+    - ~~Kaspip~~ & Celfi
+- [[Bog Witch]] is actually takes 20 years from first death to starting the trials.
+-

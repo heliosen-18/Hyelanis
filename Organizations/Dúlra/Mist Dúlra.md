@@ -1,0 +1,1 @@
+Located on the Frozen Lake of Vilsag near Asag in [[The Northern Abyss]], where a rift to the Plane of Water is.

@@ -1,0 +1,21 @@
+![Exported image](NPC%20Pharana%20Lynch.png)- Baroness of [[Hyelanis/Bastion Reach/Darem Notch]]: Pharana Lynch
+    - Race: Human Variant
+    - Sex: Female
+    - Age: Prime Adult (30% of their lifespan)
+    - Appearance: Large scar across their chin.
+    - Voice: Quicky, nervous speech
+    - Personality: Iconoclastic, Critical, and Desperate
+    - Trait: constantly looks for a loophole
+    - Bond: I have an ancient text that holds terrible secrets that must not fall into the wrong hands.
+    - Motivated by: Competitive spirit
+    - Ideal: Nation. My city, nation, or people are all that matter.
+    - Flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
+    - Quirk: receives visions (insane)
+    - Detail: Owes a favor to the local blacksmith
+    - Religion: claims to, but doesn't actually worship XXXXXXX
+    - Relationship Status: widowed, and looking
+    - STR: 10 (0) DEX: 11 (0)CON: 7 (-2) INT: 11 (0)WIS: 8 (-1) CHA: 8 (-1)
+    - Languages: Common, +1 Language
+    - Racial Extras: +1 ASI, +1 ASI, +1 Skill, +1 Feat
+    - Plot Hook: has been hired to steal items from the PCs.
+    - Summary: Iconoclastic, Critical, and Desperate - Ideal: Nation - Motivation: Competitive spirit.

@@ -1,0 +1,17 @@
+- legionary - roman citizen
+- contubernium - tent of legionary
+    - With slaves and mule, mill stone
+- Century - 10 conte
+    - 80 leg, 11 tents
+    - Centurian 1st, optio 2nd
+    -   
+        
+- Cohort
+    - 6 centuries
+    - 480 leg, 30 officer, 60-120 slaves/mules 66 tents
+    - 1st cohorts of a legion were double strength, so 800 some legs
+- Vexillation – not a legion but 2+ cohorts working together
+- Legion – 10 cohorts
+    - 5120 legs, 295 offs, 1400 slaves/mules
+    - Legate – from the senators, leader of the legion, non-professional
+        - 6 tribunes assigned to legate, were young only serving a year, non-professional

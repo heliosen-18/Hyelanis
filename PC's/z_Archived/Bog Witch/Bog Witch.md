@@ -1,0 +1,29 @@
+- [https://www.heroforge.com/load_config%3D38209133/](https://www.heroforge.com/load_config%3D38209133/) - She was a previous elf, all she can remember was something important was supposed to happen and then woke a dhampir.
+- Feed off mushroom people but if loses has to revert to blood.
+- Circle of spores
+- Hermit Secret
+    - Lil mushroom friends felt bad from eating them all and started giving them personifications
+- Doesn't remember anything prior to becoming a dhampir.
+- Always been a circle of spores but relearning
+- From Thetto Mire, Glimhollow
+    - No above ground road in glimhollow all tunnels to eachother
+    - Dark gnomes
+    - Local fauna are more swampy mushroomy, mushroom farms.
+        - Bog witch likes to steal shrooms
+    - Structure: burrow wardens to explorer underground, head burrow warden just beneath "King"
+    - Honeybadgers instead of dogs
+- Enemies: New burrow warden take it on himself to kill bog warden. She killed all the warden's posse with traps. Warden ran disgraced.
+- Allies: Bog creatures, ents?
+- Secret: Eat the shit outta a gnome. Tries to hide dhampir-ness, tries not eat to eat people
+- Just trying to survive, cares about nature though, drawn to protecting
+- Goals: understanding where she came from. (Josh wants to keep dhampir)
+- ?part of party to clear out a coven, and her party got got
+- Very pretty before change, now dead has scars, milky eye. If she got less boggy she might be more attractive.
+- Wood carver, hobby arming mushroom men
+- Fear: garlic(JK), hates bats (don’t know why)
+- Fancy staff, gnarled hand staff
+- Lie to self: loves blood but tells herself that she didn't enjoy it
+- She believes the world is very small, new she thinks is the end of the world
+- Religion: The wild huntress, symbol carved into staff, from her past can't remember, very interested in figuring more out about it, not sure what is.
+- Aesthetic: green, browns, purples, some original clothes very worn and damaged, replaced anything super damaged with natural materials, dirty face
+-

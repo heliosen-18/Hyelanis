@@ -1,0 +1,42 @@
+- **Population:**
+    - Approximately 2200 ; Primarily Human
+- **Government:**
+    - Baron of Moonshain: [[Baron Aldric Starden]] - Falls from Nowhere
+    - Lore: The Falls from Nowhere, as they came to be known, became the heart and soul of Moonshain. The locals revered the falls as a sacred site, believing it to be a gift from the gods and a source of boundless natural energy. The cascading waters of the falls serve as the headwaters for two rivers: the Dawn Flow, which flows eastward towards the rising sun, and the Twilight Flow, which meanders westward towards the setting sun. The falls are shrouded in mystery, with no known explanation for their enigmatic origin, but they remain a source of wonder and awe for the residents of Moonshain.
+- Townhall situated in the Grey Market:
+    - Name: The Granite Hall
+    - Lore: The Granite Hall serves as the administrative center of Moonshain, where the town's leaders convene to make decisions and govern the community. Constructed from sturdy granite quarried from the nearby mountains, the hall stands as a symbol of strength and resilience. Its grand halls and imposing columns exude an air of authority, while its central location in the bustling Grey Market ensures that it remains at the heart of civic life in Moonshain.
+- Large temple dedicated to the Wild Huntress:
+    - Name: The Sylvan Sanctuary
+    - Lore: The Sylvan Sanctuary is a majestic temple nestled amidst the verdant forests on the outskirts of Moonshain. Dedicated to the Wild Huntress, the goddess of nature and the hunt, the temple is a sacred place of worship and reverence for the townsfolk. Its sprawling grounds are adorned with lush gardens, towering trees, and tranquil ponds, creating a serene oasis where worshippers come to commune with the divine and seek guidance from the spirits of the wilderness.
+- Large brewery using sacred water from the Falls from Nowhere:
+    - Name: Cascade Brew Co.
+    - Lore: Cascade Brew Co. is a renowned brewery located along the banks of the Dawn Flow river, where the sacred waters of the Falls from Nowhere are drawn to create some of the finest ale and spirits in the realm. The brewery's master brewers carefully harness the mystical properties of the sacred water, imbuing their creations with a unique flavor and potency that cannot be found elsewhere. Visitors flock to Cascade Brew Co. to sample its legendary brews and experience the magic of Moonshain's most cherished resource.
+- Local inn and tavern situated in Purple Ferry:
+    - Name: The River's Rest
+    - Lore: The River's Rest is a welcoming inn and tavern nestled along the tranquil banks of the Dawn Flow river in the heart of Purple Ferry. With its cozy hearth, rustic decor, and friendly atmosphere, it serves as a beloved gathering place for travelers and locals alike. Whether seeking a comfortable bed for the night or a hearty meal and a pint of ale, patrons of The River's Rest find respite from their travels amidst the scenic beauty of Moonshain's riverside.
+- Centralized location for training druids and monks in the name of the Wild Huntress:
+    - Name: Grove of the Whispering Winds
+    - Lore: The Grove of the Whispering Winds is a sacred enclave nestled within the ancient forests surrounding Moonshain, where druids and monks come to hone their skills in the name of the Wild Huntress. Here, amidst the towering trees and murmuring streams, practitioners of the natural arts gather to study the ways of the wilderness and commune with the spirits of the land. Under the guidance of wise mentors and seasoned instructors, students learn to harness the primal forces of nature and become stewards of the wilds.
+- Sacred Grove at the base of the Falls from Nowhere
+    - Name: [[The Mossy Alter Grove]]
+    - Lore: [[The Mossy Alter Grove]] holds deep spiritual significance for [[The People]] of Moonshain, serving as a sacred place of worship and communion with the divine. It is dedicated to two powerful goddesses revered by the townsfolk: the Wild Huntress, goddess of nature and the hunt, and the Quiet Siren, goddess of the sea and knowledge. According to ancient legends, it is said that the Falls from Nowhere is the point where the domains of these two deities converge, creating a nexus of natural energy and divine power. 
+Random Locales:
+ - Whispering Woods Apothecary:
+    - A quaint shop nestled on the outskirts of town, offering a wide variety of herbal remedies, potions, and magical curiosities crafted from ingredients gathered in the nearby Kingsroy Wilds.
+- Silverleaf Smithy:
+    - A bustling forge located in the heart of Moonshain, where skilled blacksmiths and artisans ply their trade, forging weapons, armor, and tools of exceptional quality from the finest materials.
+- Stargazer's Observatory:
+    - Perched atop a hill overlooking Moonshain, the observatory is a haven for astronomers and stargazers alike, offering telescopes and guided tours for those seeking to explore the wonders of the night sky.
+- Golden Grain Bakery:
+    - A cozy bakery known for its freshly baked bread, pastries, and sweet treats, all made with locally sourced ingredients and a generous sprinkling of magic to ensure their deliciousness.
+- Harmony Hall:
+    - The town's community center, where residents gather for social events, meetings, and celebrations. Harmony Hall hosts everything from dances and concerts to town meetings and charity drives, fostering a sense of community and camaraderie among the townsfolk.
+- Twilight Treasures Emporium:
+    - A eclectic shop filled with trinkets, treasures, and oddities from distant lands and mysterious realms. From enchanted artifacts to exotic curios, Twilight Treasures offers something for every adventurer and collector.
+- Mossy Oak Inn:
+    - A charming inn nestled amidst the verdant forests surrounding Moonshain, offering cozy accommodations, hearty meals, and warm hospitality to weary travelers seeking respite from their journeys.
+- Whisperwind Winery:
+    - A picturesque vineyard located on the outskirts of town, where grapes are grown and harvested to produce a variety of fine wines that reflect the unique terroir of the Moonshain valley.
+- Sapphire Springs Spa:
+    - A luxurious spa retreat situated along the banks of the Dawn Flow river, offering a range of rejuvenating treatments, massages, and therapies to pamper body and soul.
