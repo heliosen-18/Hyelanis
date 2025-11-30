@@ -32,14 +32,15 @@ With a departure date set for the **18th**, you prepared to leave the city, arme
 - Harvin needs to pick up skeletons
 - Everywhere still wants to build an altar to [[The Bright Father – Heliod]]
 	- Build in the Merchant Mile at the end of Pier 7A. Cost 50 GP.
-	- [[Val Taruum NPCs#^4a9912|Norwan Valedale]] Accepts the request
+	- [[Val Taruum NPCs#^83b703|Norwan Valedale]] Accepts the request
 - King delivers the stipend of 5 tons of [[Powdered Sordalite Fuel]] & a Foreman to begin construction of the barracks on the Pier
-
+	- [[Val Taruum NPCs#^b488d1|Foreman Doydown]]
+- [[Kaelan Vane]] asks if he is to accompany or not
 ### 2. Scenes & Encounters
-| Scene/Event            | Key NPCs/Monsters | Goal/Clue                                  |
-| :--------------------- | :---------------- | :----------------------------------------- |
-| 1. Tying up loose ends | NPC:              | Complete all tasks and depart the city     |
-| **The Chase**          | 3x **Thug**       | Escape the docks and avoid the City Watch. |
+| Scene/Event         | Key NPCs/Monsters | Goal/Clue                                  |
+| :------------------ | :---------------- | :----------------------------------------- |
+| Tying up loose ends | NPC:              | Complete all tasks and depart the city     |
+| **The Chase**       | 3x **Thug**       | Escape the docks and avoid the City Watch. |
 
 ### 3. Secrets and Clues (3-5 items)
 *Things the players could discover this session.*

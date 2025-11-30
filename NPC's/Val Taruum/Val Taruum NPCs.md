@@ -26,9 +26,9 @@
 	Description: Middle-aged, Female, Dwarf, Short, Athletic build, They wear a lot of rings
 	Voice: Deep, Forceful, Normal speed, Speaks in a very formal manner
 	Mannerism: They are very patient
-	PlotHook: Needs help with a curse ^4a9912
-- Ruyan Doydown
+	PlotHook: Needs help with a curse ^83b703
+- Ruyan Doydown: Construction Foreman for pier
 	Description: Young, Non-binary, Dwarf, A buzzcut, Average height, Athletic build, They have a gold tooth
 	Voice: Low pitch, Normal volume, Normal speed, Speaks in a sing-song voice
-Mannerism: They are always looking for a way to make money
-PlotHook: Is looking for a rare animal
+	Mannerism: They are always looking for a way to make money
+	PlotHook: Is looking for a rare animal ^b488d1
