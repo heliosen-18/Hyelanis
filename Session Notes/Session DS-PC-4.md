@@ -36,16 +36,16 @@ With a departure date set for the **18th**, you prepared to leave the city, arme
 - King delivers the stipend of 5 tons of [[Powdered Sordalite Fuel]] & a Foreman to begin construction of the barracks on the Pier
 	- [[Val Taruum NPCs#^b488d1|Foreman Doydown]]
 - [[Kaelan Vane]] asks if he is to accompany or not
+
 ### 2. Scenes & Encounters
-| Scene/Event         | Key NPCs/Monsters | Goal/Clue                                  |
-| :------------------ | :---------------- | :----------------------------------------- |
-| Tying up loose ends | NPC:              | Complete all tasks and depart the city     |
-| **The Chase**       | 3x **Thug**       | Escape the docks and avoid the City Watch. |
+| Scene/Event                       | Key NPCs/Monsters       | Goal/Clue                              |
+| :-------------------------------- | :---------------------- | :------------------------------------- |
+| Tying up loose ends               | NPC:                    | Complete all tasks and depart the city |
+| 1. Finally Meeting Lady Ebonsahde | NPC: [[Lady Ebonshade]] | Get Estrid's blood in return for       |
 
 ### 3. Secrets and Clues (3-5 items)
 *Things the players could discover this session.*
-- The Baron is secretly a member of the Shadow Syndicate.
-- The location of the main villain's lair is in the Whispering Ruins.
+
 
 ---
 

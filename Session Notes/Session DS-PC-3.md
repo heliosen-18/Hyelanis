@@ -130,7 +130,7 @@ Syrgaul eventually met his end just over ten years ago. As he and his crew appro
 
 #### **Scene 3: Lady Ebonshade**
 
-The Covenant's base is hidden within a structural tunnel system beneath the Low Ward**, the bottom-most level of the Unification Bridge. This placement leverages the level's** more basic accommodations and workshops** to camouflage its clandestine operations.
+The Covenant's base is hidden within a structural tunnel system beneath the Low Ward, the bottom-most level of the Unification Bridge. This placement leverages the level's more basic accommodations and workshops to camouflage its clandestine operations.
 
 ##### **The Entrance: The Forgotten Vent**
 
