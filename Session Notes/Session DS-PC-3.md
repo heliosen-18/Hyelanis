@@ -183,16 +183,21 @@ Phase 3: Securing the Blood and the Deal
 *Use this section during the session for quick notes.*
 
 #### **In-Game Time: Session Start**
+ - Harvin tells Estrid about the vision through the telescope of his family. After the battle tells the rest of the party
+ - Harvin writes a letter to the King describing to what happened to the Stargazer's eye telescope, but not to take the blame.
  - 
 
 ---
 
 ## ➡️ Post-Session Wrap-up
 ### Loot & Rewards
+###**Purchases:**
+- 
 - **Treasures:**  
 
 ### NPC Status Updates
 *Did an NPC die, change allegiance, or become important?*
+- Willow needs to provide a means to communicate with the party
 - 
 
 ### Next Session Planning Hook
