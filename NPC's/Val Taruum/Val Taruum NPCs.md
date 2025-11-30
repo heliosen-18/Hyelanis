@@ -22,4 +22,13 @@
 - The Ancient Smith (Dwarf): A legendary figure who is said to have forged the first dwarven weapons. His spirit is believed to reside in The Forges of An'dul Khaz'al, guiding the hands of master smiths.
 - Major Thora Stonefist
 - Filander Cartman
-- 
+- Norwan Valedell: Caretaker of Everywhere's Altar to [[The Bright Father – Heliod]]
+	Description: Middle-aged, Female, Dwarf, Short, Athletic build, They wear a lot of rings
+	Voice: Deep, Forceful, Normal speed, Speaks in a very formal manner
+	Mannerism: They are very patient
+	PlotHook: Needs help with a curse ^4a9912
+- Ruyan Doydown
+	Description: Young, Non-binary, Dwarf, A buzzcut, Average height, Athletic build, They have a gold tooth
+	Voice: Low pitch, Normal volume, Normal speed, Speaks in a sing-song voice
+Mannerism: They are always looking for a way to make money
+PlotHook: Is looking for a rare animal
