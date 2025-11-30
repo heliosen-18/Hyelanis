@@ -1,3 +1,22 @@
+## **Demographics & Atmosphere**
+
+- **Population:** Uskarn is a small village of about nine hundred people.
+- **Diversity:** While primarily human, the population includes a small number of dwarves, elves, and gnomes.
+- **Attitude Toward Outsiders:** Visitors are generally met with a "cool welcome". It is standard procedure for the bailiff's agent, Merrick, to visit new arrivals and interrogate them about their business and how long they intend to stay.
+
+## **Politics & Corruption**
+
+- **True Power:** While the Council guides general policy, the "true power" in the village is the bailiff, Feldrin Kane, who enforces his specific vision of government.
+- **Law Enforcement Corruption:** Several of the deputies who work for the lawkeeper, Merrick, are corrupt. They are on the payroll of the smuggler Griff Talsin.
+- **Smuggling Operations:** The large port hides a smuggling ring run by Talsin, who is actually a privateer raiding other coastal villages for goods.
+
+## **Economy & Travel**
+
+- **Ferry Schedule & Cost:** The ferry to Firewatch Island leaves at "first light" every day. A one-way trip costs 5 sp.
+- **Ferryman's Attitude:** The ferryman, Ulder Raserhill, is short-tempered and will only wait for the party if bribed with a large sum (up to 50 gp).
+- **Rowboat Access:** If the party needs independent transport, the village council can arrange for a large rowboat to be towed to the island for them.
+- **Quest Rewards:** The villagers are concerned for the hermits but have no money to offer as a reward for investigating. However, if the party succeeds, the bailiff Feldrin Kane may deed Firewatch Island and its fortress to the characters as a reward.
+
 ## Notable Locations
 ### **Key Establishments**
 
