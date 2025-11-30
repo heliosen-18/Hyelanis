@@ -30,6 +30,7 @@ With a departure date set for the **18th**, you prepared to leave the city, arme
 
 ### 1. The Strong Start
 - Harvin needs to pick up skeletons
+- A sending stone along with the bags of skeletons are delivery to the ship
 - Everywhere still wants to build an altar to [[The Bright Father – Heliod]]
 	- Build in the Merchant Mile at the end of Pier 7A. Cost 50 GP.
 	- [[Val Taruum NPCs#^83b703|Norwan Valedale]] Accepts the request
