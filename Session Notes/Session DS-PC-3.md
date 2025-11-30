@@ -206,7 +206,5 @@ Phase 3: Securing the Blood and the Deal
 ### NPC Status Updates
 *Did an NPC die, change allegiance, or become important?*
 - Willow needs to provide a means to communicate with the party
-- 
 
-### Next Session Planning Hook
 

@@ -92,7 +92,22 @@ Phase 3: Securing the Blood and the Deal
 |**The Close:** Ebonshade accepts the blood, offering a first piece of immediate, actionable intelligence to cement the deal, perhaps related to a mining conflict or the **Great Airship Race**, to prove the Covenant's worth.|_Focus on Action:_ "The ritual will begin immediately. Now, as promised, a whisper: We hear of a rare ore that Raunaeril's agents are looking for, deep in the dwarven districts. Find the ore, find the trail."|Estrid accepts the intelligence, takes the first steps toward the hunt, and leaves the **Low Ward** base, further convinced that the **Covenant** is a dangerous, yet necessary, ally.|
 #### **Scene 2: Depart for Sunware Key**
  - Travel Time: 40hrs (400mi)
- - **Bosun** Aella Comler advises that if there is no airship dock that the [[Twilight Drift (ES Stallheart)|The Twilight Drift]] is able to moor to a regular pier but it will entail deflating
+ - **Bosun** Aella Comler advises that if there is no airship dock that the [[Twilight Drift (ES Stallheart)|The Twilight Drift]] is able to moor to a regular pier but it will entail deflating the envelope which will take an hour or so to store properly. To take off will take approx. 4 hours to reheat the Shard Furnace and reinflate the envelope.
+
+"As your airship cuts through the biting winds of the far northern seas, the imposing silhouette of Sunware Key rises from the steel-gray ocean. Dominating this fifty-mile island is the brooding peak of a great active volcano, its rim glowing with a dull, angry heat that vents a constant plume of ash into the freezing sky.
+
+Below, tucked precariously between the volcano’s foothills and the churning sea, lies the village of [[Key Landing]]. From this height, the settlement looks like a cluster of hardy barnacles clinging to the coastline. It is a small place—no more than nine hundred souls —but as you descend, you notice the harbor is suspiciously large for such a remote town.
+
+The docks are busy, crowded not just with small fishing skiffs working the shallows, but with larger trading vessels and naval ships that seem out of place in these frigid waters. Near the waterfront, a massive, blocky building stands out among the smaller homes—a converted warehouse that now clearly serves as the village’s main gathering hub. A single gravel track winds its way out of the village, disappearing into the volcanic rock and scrub of the island’s interior.
+
+A mile or so off the coast of Key Landing, you see a small island cutting through the chop of the sea. It’s a rugged, lonely spit of land—only about 800 feet long —dominated by three barren, stony peaks that rise sharply above the water.
+
+Nestled in the saddle between the hills sits a small stone fortress. From this height, you can see it is a two-story structure with a taller bell tower rising from the complex, watching over a walled courtyard filled with small gardens.
+
+A single wooden pier extends from the north shore , but otherwise, the island appears quiet. 
+
+As you near Sunware Key the air begins to warm ever so slightly, you presume due to the geothermal activity, making this island that should be frozen over, a paradise in the cold."
+
 ### 3. Secrets and Clues (3-5 items)
 *Things the players could discover this session.*
 
@@ -103,20 +118,17 @@ Phase 3: Securing the Blood and the Deal
 *Use this section during the session for quick notes.*
 
 #### **In-Game Time: Session Start**
- - Party decided to split up at the market.
- - Rogue Player Name failed a Stealth check (DC 14).
- - They found the secret passage under The Gilded Mug.
+ - 
 
 ---
 
 ## ➡️ Post-Session Wrap-up
 ### Loot & Rewards
-- **Treasures:**  Sunsword, 500 gold, 2x **Potion of Healing**
+- **Treasures:**  
 
 ### NPC Status Updates
 *Did an NPC die, change allegiance, or become important?*
-- NPC: Guard Captain Thorin is now **Hostile**.
-- NPC: Layla the Bard is now traveling with the party.
+- 
 
 ### Next Session Planning Hook
 *What question is left unanswered? What will drive the start of the next session?*
