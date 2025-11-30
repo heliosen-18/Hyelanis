@@ -97,6 +97,64 @@
 > - ***Automatic Critical Hits.*** Any attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.
 > - **_Unaware._** You’re unaware of your surroundings.
 
+## Item Help [Equipment](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment)
+#### Magic Item Rarities and Values
+| Rarity    | Value*     |
+| --------- | ---------- |
+| Common    | 100 GP     |
+| Uncommon  | 400 GP     |
+| Rare      | 4,000 GP   |
+| Very Rare | 40,000 GP  |
+| Legendary | 200,000 GP |
+| Artifact  | Priceless  |
+*Halve the value for a consumable item other than a [Spell Scroll](https://www.dndbeyond.com/magic-items/9229085-spell-scroll). The value of a _Spell Scroll_ is double what it costs to scribe the scroll (as specified in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024)).
+
+#### Spell Scroll
+
+| Spell Level                                                                   | Rarity    | Save DC | Attack Bonus |
+| ----------------------------------------------------------------------------- | --------- | ------- | ------------ |
+| [Cantrip](https://www.dndbeyond.com/magic-items/8960642-spell-scroll-cantrip) | Common    | 13      | +5           |
+| [1st](https://www.dndbeyond.com/magic-items/8960643-spell-scroll-level-1)     | Common    | 13      | +5           |
+| [2nd](https://www.dndbeyond.com/magic-items/9229076-spell-scroll-level-2)     | Uncommon  | 13      | +5           |
+| [3rd](https://www.dndbeyond.com/magic-items/9229077-spell-scroll-level-3)     | Uncommon  | 15      | +7           |
+| [4th](https://www.dndbeyond.com/magic-items/9229078-spell-scroll-level-4)     | Rare      | 15      | +7           |
+| [5th](https://www.dndbeyond.com/magic-items/9229079-spell-scroll-level-5)     | Rare      | 17      | +9           |
+| [6th](https://www.dndbeyond.com/magic-items/9229081-spell-scroll-level-6)     | Very rare | 17      | +9           |
+| [7th](https://www.dndbeyond.com/magic-items/9229082-spell-scroll-level-7)     | Very rare | 18      | +10          |
+| [8th](https://www.dndbeyond.com/magic-items/9229083-spell-scroll-level-8)     | Very rare | 18      | +10          |
+| [9th](https://www.dndbeyond.com/magic-items/9229084-spell-scroll-level-9)     | Legendary | 19      | +11          |
+
+_**Copying a Scroll into a Spellbook.**_ A Wizard spell on a _Spell Scroll_ can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence ([Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check with a DC equal to 10 plus the spell’s level. On a successful check, the spell is copied. Whether the check succeeds or fails, the _Spell Scroll_ is destroyed.
+
+#### Scribing Spell Scrolls
+
+A spellcaster can transfer a spell to a scroll and create a [Spell Scroll](https://www.dndbeyond.com/magic-items/9229085-spell-scroll), using the rules below.
+
+##### Time and Cost
+
+Scribing a scroll takes an amount of time and money based on the level of the spell, as shown in the [Spell Scroll Costs table](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#SpellScrollCosts). For each day of inscription, you must work for 8 hours. If a scroll requires multiple days, those days needn’t be consecutive.
+
+##### Prerequisites for the Scribe
+
+To scribe a scroll, you must have proficiency in the [Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) skill or with [Calligrapher’s Supplies](https://www.dndbeyond.com/equipment/404-calligraphers-supplies) and have the spell prepared on each day of the inscription. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed only when you complete the scroll. The scroll’s spell uses your spell save DC and spell attack bonus.
+
+##### Cantrips
+
+If the scribed spell is a cantrip, the version on the scroll works as if the caster were your level.
+
+##### Spell Scroll Costs
+|Spell Level|Time|Cost|
+|---|---|---|
+|Cantrip|1 day|15 GP|
+|1|1 day|25 GP|
+|2|3 days|100 GP|
+|3|5 days|150 GP|
+|4|10 days|1,000 GP|
+|5|25 days|1,500 GP|
+|6|40 days|10,000 GP|
+|7|50 days|12,500 GP|
+|8|60 days|15,000 GP|
+|9|120 days|50,000 GP|
 
 <br>
 

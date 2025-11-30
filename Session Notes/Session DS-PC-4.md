@@ -109,9 +109,6 @@ A single wooden pier extends from the north shore , but otherwise, the island ap
 
 As you near Sunware Key the air begins to warm ever so slightly, you presume due to the geothermal activity, making this island that should be frozen over, a paradise in the cold."
 
-### 3. Secrets and Clues (3-5 items)
-*Things the players could discover this session.*
-
 
 ---
 
