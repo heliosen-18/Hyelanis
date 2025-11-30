@@ -38,11 +38,61 @@ With a departure date set for the **18th**, you prepared to leave the city, arme
 - [[Kaelan Vane]] asks if he is to accompany or not
 
 ### 2. Scenes & Encounters
-| Scene/Event                       | Key NPCs/Monsters       | Goal/Clue                              |
-| :-------------------------------- | :---------------------- | :------------------------------------- |
-| Tying up loose ends               | NPC:                    | Complete all tasks and depart the city |
-| 1. Finally Meeting Lady Ebonsahde | NPC: [[Lady Ebonshade]] | Get Estrid's blood in return for       |
+| Scene/Event                       | Key NPCs/Monsters       | Goal/Clue                                                                                                                                                                    |
+| :-------------------------------- | :---------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tying up loose ends               | NPC:                    | Complete all tasks and depart the city                                                                                                                                       |
+| 1. Finally Meeting Lady Ebonsahde | NPC: [[Lady Ebonshade]] | Get Estrid's blood in return for [Amulet of Proof Against Detection and Location](https://www.dndbeyond.com/magic-items/4569-amulet-of-proof-against-detection-and-location) |
+| 2. Depart for Sunware Key         |                         |                                                                                                                                                                              |
+#### **Scene 1: Lady Ebonshade**
 
+The Covenant's base is hidden within a structural tunnel system beneath the Low Ward, the bottom-most level of the Unification Bridge. This placement leverages the level's more basic accommodations and workshops to camouflage its clandestine operations.
+
+##### **The Entrance: The Forgotten Vent**
+
+As characters approach the target location in the Low Ward:
+
+- **Exterior Appearance:** The tunnel entrance is not a door, but a massive, rusted, and permanently sealed ventilation shaft grille set into the stone structure below one of the rough-hewn workshops. The stone around it is dark with grime and weeping with condensation from the bay below, and the air here is thick with the smells of damp stone, machine oil, and the fainter metallic scent from the nearby dwarven districts.
+- **Camouflage:** The large grille is heavily marked with symbols in chalk and scorch marks—the residue of failed, abandoned **gnomish contraptions** or an old, non-functional **alchemical device**. This makes the opening look like a long-forgotten piece of industrial equipment, ignored by the workers and residents of the Low Ward.
+- **The Activation:** The only way to open the grille is by performing a precise, silent ritual. If Lady Ebonshade or one of her agents were expecting the characters, a ripple of shadow magic—a momentary black spot deeper than any physical shadow—would pulse on the rusted metal. The grille would then silently _shift_, not swinging open, but seemingly dissolving into a shimmering, light-bending illusion, revealing a dark, tight passage beyond.
+
+##### **The Interior: The Nexus of Whispers**
+
+Beyond the illusion, the base is a blend of rough-hewn structural architecture and refined dark magic, perfectly suited for the Covenant’s activities of **Shadow Infiltration** and **Dark Bargains**.
+
+1. **The Entry Tunnel (The "Veil"):**
+    - **Architecture:** The passage is a narrow, claustrophobic maintenance tunnel, its stone walls slick with moisture and crisscrossed by thick, insulated pipes.
+    - **The Ward:** A palpable, cold magical energy presses against the skin. This area is constantly saturated with shadow magic to **confuse and disorient** unwelcome intruders, making the space seem to shift and double back on itself (an applied gnomish illusion technique, but twisted with the Covenant's dark arts).
+2. **The Hub (The Gathering Point):**
+    - **Atmosphere:** The tunnel widens into a natural cavern or large structural chamber. The space is illuminated only by a few carefully controlled sources: faint, greenish-blue phosphorescent moss and the pale, cold light from a cluster of **cursed artifacts** contained behind wrought-iron grates.
+    - **Lady Ebonshade's Presence:** This is where the **Mistress of Whispers** conducts her business. She would be seated near the center, her long, raven-black hair seeming to **meld with the shadows around her**.
+    - **Acoustics:** Despite being so close to the bridge's support structure, the room is eerily quiet. The sound of the thrumming bridge above is almost completely muted by powerful, magical sound-dampening wards, ensuring that the **secrets extracted from the most guarded minds** are never heard by the outside world.
+
+##### **The Discussions**
+
+Phase 1: Establishing Mutual Gain and Acknowledging the Target
+
+|**Lady Ebonshade's Action**|**Dialogue/Focus Pointers**|**Estrid's Reaction**|
+|---|---|---|
+|**Acknowledge the Mission:** She would immediately confirm she knows _why_ Estrid is there, using the organization's reputation for **espionage**.|_Focus on Raunaeril:_ "The Night Lord is a slippery shadow, even for us. Your desire for **vengeance** is noted, but he does not fall to common steel."|Estrid is **paranoid** and **hates shapeshifters**. She would be terse, demanding proof of the Covenant's resources and capability to deal with a powerful entity like her father, the **originator of vampires**.|
+|**Praise the Weapon:** She would display knowledge of Estrid's unique sword. Estrid is known to have a **magic sword that is super sharp, has to feed off the undead**.|_Focus on the Sword:_ "That blade is extraordinary. A tool for great purpose. But tools need maintenance, and a special diet. We can find you prey to **feed** your purpose."|Estrid would feel a moment of grim respect, as few know about the sword's unique needs. This recognition of her **favorite item** is a sign that Ebonshade is a serious player.|
+|**Offer the Intel:** Lady Ebonshade's primary goal is **Shadow Infiltration**. She offers intelligence that Estrid cannot acquire on her own.|_Focus on Weakness:_ "Our Whisperers hear things about his movements that the city councilors miss. We can give you a path. In return, the Covenant needs an _advantage_ against him."|Estrid, being a **brutish private eye, not as logical**, would be focused on the kill. She agrees to a trade: her **killing** services for their **intel** on Raunaeril.|
+
+Phase 2: The Subtle Pivot (Introducing the Blood Vial)
+
+|**Lady Ebonshade's Action**|**Dialogue/Focus Pointers**|**Estrid's Reaction**|
+|---|---|---|
+|**The Justification:** She notes the high risk of tracking Raunaeril. Estrid's own **blood is a beacon** that draws him.|_Focus on the Nyxborn Trait:_ "Your lineage is a double-edged sword. You can find him, but he can also find _you_. To shield you from his senses, we need a catalyst for the necessary wards. Something intimately tied to the threat."|Estrid is **constantly paranoid her biological father will discover her**. The mention of a shield would be highly tempting. She might ask for specifics, ready to **kill for any small trespass**.|
+|**The Direct Ask (The Deception):** She makes the request sound necessary for Estrid's protection, a minor cost for **forbidden rites** to amplify a **curse** against Raunaeril.|_Focus on the Vial:_ "We require one small vial of your blood. A drop of his own lineage, untainted by the Night Lord's current form, will allow us to twist the path, blinding him to his child. It's a key component for the _shield_."|Estrid would be hesitant. She **needs to kill** and this sounds like a delay. Her **child trauma** would make her suspect ulterior motives, but the promise of invisibility from her father is a powerful lure.|
+
+Phase 3: Securing the Blood and the Deal
+
+|**Lady Ebonshade's Action**|**Dialogue/Focus Pointers**|**Estrid's Reaction**|
+|---|---|---|
+|**The Ultimatum:** Ebonshade uses the Covenant's power—their ability to perform a **forbidden rite**—as the leverage.|_Focus on Power:_ "You want him dead. We want the prestige of seeing him fall. We provide the intelligence and the shield. We have all the power in this city that flows beneath the streets. You cannot succeed without our Shadow Infiltration. Give us the catalyst."|Estrid, seeing the opportunity for the kill slip away, would likely acquiesce. Her **vengeful** nature overrides her fear of a **small trespass**. She will justify it as a necessary evil to **kill her dad**.|
+|**The Close:** Ebonshade accepts the blood, offering a first piece of immediate, actionable intelligence to cement the deal, perhaps related to a mining conflict or the **Great Airship Race**, to prove the Covenant's worth.|_Focus on Action:_ "The ritual will begin immediately. Now, as promised, a whisper: We hear of a rare ore that Raunaeril's agents are looking for, deep in the dwarven districts. Find the ore, find the trail."|Estrid accepts the intelligence, takes the first steps toward the hunt, and leaves the **Low Ward** base, further convinced that the **Covenant** is a dangerous, yet necessary, ally.|
+#### **Scene 2: Depart for Sunware Key**
+ - Travel Time: 40hrs (400mi)
+ - **Bosun** Aella Comler advises that if there is no airship dock that the [[Twilight Drift (ES Stallheart)|The Twilight Drift]] is able to moor to a regular pier but it will entail deflating
 ### 3. Secrets and Clues (3-5 items)
 *Things the players could discover this session.*
 
