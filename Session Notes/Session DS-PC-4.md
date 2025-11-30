@@ -1,9 +1,24 @@
 ## ⏪ Recap of Last Session
-*Goal: Write 2-3 sentences to remind everyone where we left off.*
-Last time, the party... 
-> [!example] Previous Session:`[[Session DS-PC-XX]]` 
+**The Stargazer’s Flood & The Pirate’s Map**
 
-# Date: Nyllus, 14th of Blossomtide
+**The Calm Before the Storm** We picked up shortly after your elevation to "Heroes of Val Taruum." You had secured your rewards—including 5 tons of fuel monthly and access to the Ancient Forge—and struck a secret, revolutionary accord with Councilor Willow Whisperwind to assassinate the "Night Lord."
+
+**The Breach at the Eye** While the city slept, Harvin remained at the _Stargazer's Eye_, peering through the planar lens. He found what he was looking for—a vision of his family trapped within a bubble, protected by a Dragon Turtle. But the gaze went both ways.
+
+The telescope shuddered and failed, bursting open to unleash a torrent of freezing, deep-ocean brine. From the high-pressure spray, a "Shade of Water"—an echo of the very Dragon Turtle protecting Harvin’s kin—manifested along with water weirds, flooding the observatory.
+
+**Aftermath & Revelations** After defeating the elemental threat, the party regrouped.
+
+- **Harvin’s Fury:** Harvin revealed the vision of his family to the group. In a moment of vulnerability and rage, he condemned the goddess Thassa, declaring that she has forsaken her followers and stolen his family solely for power—a conclusion drawn from his grief.
+- **Damage Control:** Realizing the _Stargazer's Eye_ was wrecked, Harvin penned a careful letter to King Grimbeard, notifying him of the "malfunction" while diplomatically avoiding direct blame.
+- **The Queen’s Curse:** Amidst the chaos, Harvin also began researching hexes and curses, seeking a way to aid the Queen with her necromantic affliction.
+
+**The Path Forward** The session concluded with Rylan finally cracking the code of the treasure map. He linked it to the wreck of the _Tammeraut_, a war galley captained by the pirate sorcerer Syrgaul, located near **Sunware Key**.
+
+With a departure date set for the **18th**, you prepared to leave the city, armed with a new Scroll of Waterbreathing and a heading toward buried secrets.
+> [!example] Previous Session:[[Session DS-PC-3]] 
+
+# Date: Nyllus, 16th of Blossomtide
 # Weather: 
 | Temps | Precip | Winds | Clouds |
 | ----- | ------ | ----- | ------ |

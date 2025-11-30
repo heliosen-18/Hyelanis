@@ -185,15 +185,23 @@ Phase 3: Securing the Blood and the Deal
 #### **In-Game Time: Session Start**
  - Harvin tells Estrid about the vision through the telescope of his family. After the battle tells the rest of the party
  - Harvin writes a letter to the King describing to what happened to the Stargazer's eye telescope, but not to take the blame.
- - 
+ - Harvin tells the party what he thinks of [[The Quiet Siren – Thasa]]
+	 - That she only uses people as a means to an end
+	 - She forsakes her followers
+	 - Her reason to take his family "Power"
+	 - *Much of what Harvin understands about why Thasa does things is incorrect and his conclusions are made out of rage*
+- Harvin in search of book regarding curses and hexes to help the Queen
+- End session with talking to Rylan about treasure.
+- Plan to depart on the 18th.
 
 ---
 
 ## ➡️ Post-Session Wrap-up
 ### Loot & Rewards
-###**Purchases:**
+#### **Purchases:**
+- 450GP Scroll of Waterbreathing
+#### **Treasures:**  
 - 
-- **Treasures:**  
 
 ### NPC Status Updates
 *Did an NPC die, change allegiance, or become important?*
