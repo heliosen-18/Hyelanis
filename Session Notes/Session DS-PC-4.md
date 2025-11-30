@@ -13,30 +13,30 @@ The telescope shuddered and failed, bursting open to unleash a torrent of freezi
 - **Damage Control:** Realizing the _Stargazer's Eye_ was wrecked, Harvin penned a careful letter to King Grimbeard, notifying him of the "malfunction" while diplomatically avoiding direct blame.
 - **The Queen’s Curse:** Amidst the chaos, Harvin also began researching hexes and curses, seeking a way to aid the Queen with her necromantic affliction.
 
-**The Path Forward** The session concluded with Rylan finally cracking the code of the treasure map. He linked it to the wreck of the _Tammeraut_, a war galley captained by the pirate sorcerer Syrgaul, located near **Sunware Key**.
+**The Path Forward** The session concluded with Rylan finally cracking the code of the treasure map. He linked it to the wreck of the _Tammeraut_, a war galley captained by the pirate sorcerer Syrgaul, located near **[[Sunware Key]]**.
 
 With a departure date set for the **18th**, you prepared to leave the city, armed with a new Scroll of Waterbreathing and a heading toward buried secrets.
+
 > [!example] Previous Session:[[Session DS-PC-3]] 
 
-# Date: Nyllus, 16th of Blossomtide
-# Weather: 
-| Temps | Precip | Winds | Clouds |
-| ----- | ------ | ----- | ------ |
-| 76-87F| None   | ENE Mod. Breeze| Clear Sky |
+# Date: Heliark, 17th of Blossomtide
+#### Weather: 
+| Temps  | Precip | Winds          | Clouds            |
+| ------ | ------ | -------------- | ----------------- |
+| 74-92F | Steady | E Fresh Breeze | Gray and Overcast |
 
 
 ## 🎯 Next Steps & Goals (Pre-Game Prep)
 
 ### 1. The Strong Start
-*What happens in the first 10 minutes to grab the players' attention?*
-- The sudden arrival of `[[NPC: The Baron's Envoy]]`
-- A loud explosion heard from `[[The Old Clock Tower]]`
+- Harvin needs to pick up skeletons
+- Everywhere still wants to build an altar to 
 
 ### 2. Scenes & Encounters
-| Scene/Event              | Key NPCs/Monsters                 | Goal/Clue                                          |
-| :----------------------- | :-------------------------------- | :------------------------------------------------- |
-| **A Mysterious Meeting** | NPC: Old Silas, Cultist Statblock | Deliver the Jade Amulet and receive the next clue. |
-| **The Chase**            | 3x **Thug**                       | Escape the docks and avoid the City Watch.         |
+| Scene/Event            | Key NPCs/Monsters | Goal/Clue                                  |
+| :--------------------- | :---------------- | :----------------------------------------- |
+| 1. Tying up loose ends | NPC:              | Complete all tasks and depart the city     |
+| **The Chase**          | 3x **Thug**       | Escape the docks and avoid the City Watch. |
 
 ### 3. Secrets and Clues (3-5 items)
 *Things the players could discover this session.*

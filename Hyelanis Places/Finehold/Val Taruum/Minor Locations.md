@@ -23,3 +23,7 @@
 - **The Armorsmith's Alley:** A section of the market dedicated to dwarven armorsmiths, where you can find high-quality armor of all types, from sturdy leather jerkins to impressive full plate armor.
 - **The Weaponsmith's Way:** A row of stalls run by dwarven weaponsmiths, offering a wide variety of weapons, from simple daggers and swords to impressive battleaxes and enchanted weapons with special properties.
 - **The Dwarven Delights:** A bakery stall filled with delicious dwarven treats, including hearty breads, savory pies, and rich, spiced cakes.
+
+# Extra Minor
+- **Silent Tally:** A Morgue in-between the Unification Bridge and the Carven City
+	- Run by an elderly Dwarf
