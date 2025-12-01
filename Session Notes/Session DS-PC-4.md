@@ -119,11 +119,12 @@ As you near Sunware Key the air begins to warm ever so slightly, you presume due
  - 52 gp to Norwan, special brick with name of ship (anchor brick)
  - Everywhere needs bottled essence of an incorporeal creature to drop price in magic ring (4000gp without)
  - Week until sword is done.
- - Describe Ancient Smith House: 
+ - Describe Ancient Smith House: Once a solid boulder of obsidian, now carved into a simple hut (30x20). Singular Anvil in center and alights with runes when Whelm was on anvil
  - Talk to The Ancient Smith in regards about Whelm and repairing the Moss Wall
- - Ancient Smith."Remind the king repairs need to be made from within the world break and the price must be made."
+ - Ancient Smith: "Remind the king repairs need to be made from within the world break and the price must be made."
  - Pressure Emp Reg to let everyone know that the Wall is fixable.
  - "Meet. Same place. With Estrid."
+ - Estrid refuses deal... For now...
 
 ---
 
