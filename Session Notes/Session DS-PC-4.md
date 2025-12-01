@@ -117,7 +117,8 @@ As you near Sunware Key the air begins to warm ever so slightly, you presume due
 
 #### **In-Game Time: Session Start**
  - 52 gp to Norwan, special brick with name of ship (anchor brick)
- - Everywhere needs bottled essence of an inco
+ - Everywhere needs bottled essence of an incorporeal creature to drop price in magic ring (4000gp without)
+ - 
 
 ---
 
