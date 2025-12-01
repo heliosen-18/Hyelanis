@@ -116,6 +116,7 @@ As you near Sunware Key the air begins to warm ever so slightly, you presume due
 *Use this section during the session for quick notes.*
 
 #### **In-Game Time: Session Start**
+ - 52 gp to Norwan, special brick with name of ship (anchor brick)
  - 
 
 ---
