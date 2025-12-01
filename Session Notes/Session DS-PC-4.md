@@ -126,6 +126,7 @@ As you near Sunware Key the air begins to warm ever so slightly, you presume due
  - "Meet. Same place. With Estrid."
  - Estrid refuses deal... For now...
  - "Good faith" -Lady Ebonshade left the amulet under Harvin's pillow.
+ - Xander was trying to see Estrid at night.
 
 ---
 
