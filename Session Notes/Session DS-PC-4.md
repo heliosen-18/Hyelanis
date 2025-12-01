@@ -125,6 +125,7 @@ As you near Sunware Key the air begins to warm ever so slightly, you presume due
  - Pressure Emp Reg to let everyone know that the Wall is fixable.
  - "Meet. Same place. With Estrid."
  - Estrid refuses deal... For now...
+ - "Good faith" -Lady Ebonshade left the amulet under Harvin's pillow.
 
 ---
 
