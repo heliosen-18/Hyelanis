@@ -128,6 +128,7 @@ As you near Sunware Key the air begins to warm ever so slightly, you presume due
  - "Good faith" -Lady Ebonshade left the amulet under Harvin's pillow.
  - Xander was trying to see Estrid at night.
  - Front corner of right-hand side foundation stone to Heliod Altar.
+ - Trade with locals if they want.
 
 ---
 
