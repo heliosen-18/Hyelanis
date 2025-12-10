@@ -16,7 +16,7 @@
 ### A few NPCs:
 
 - Wynna: Female Human Merchant, Neutral. Wynna has a narrow face, with black hair and grey eyes. She wears sturdy clothing and carries a long knife. Wynna has an animal companion, a ginger ferret named Eotall.
-- Arner: Male Dwarf Thief, Neutral. Arner has a narrow face, with tangled white hair and light hazel eyes. He wears leather armor and wields a short sword and dagger. Arner seeks revenge against the thieves' guild which left him to hang.
-- Gytha: Female Human Craftsman, Evil. Gytha is haughty in bearing, with long black hair and amber eyes. She wears travel-stained clothing and a wide-brimmed hat. Gytha was raised by cultists of the Emperor of Evil.
+- Arner: Male Dwarf Thief, Neutral. Arner has a narrow face, with tangled white hair and light hazel eyes. He wears leather armor and wields a short sword and dagger. Arner seeks revenge against the thieves' guild ([[The Shadowed Covenant]]) which left him to hang.
+- Gytha: Female Human Craftsman, Evil. Gytha is haughty in bearing, with long black hair and amber eyes. She wears travel-stained clothing and a wide-brimmed hat. Gytha was raised by cultists of the ([[Rift Reavers).
 - Alfled: Male Human Servant, Neutral. Alfled has auburn hair and grey eyes. He wears modest garments and several pouches hang from his belt. Alfled is cynical and foolish.
 - Maly Wyarde: Female Human Alchemist, Neutral. Maly has silver hair and soft brown eyes, and a small mouth. She wears well-made clothing and a feathered hat. Maly has an animal companion, a red fox named Edwam.
