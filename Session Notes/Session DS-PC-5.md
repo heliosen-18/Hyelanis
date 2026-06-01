@@ -156,6 +156,7 @@ Standing amidst the bones and the pulsing light are the guardians of the rift:
 - Everywhere Bluerot from Syrgaul
 - Alister Bluerot from Syrgaul
 - Left Portal to Hell open?!?!?!
+- Burial at sea, built casket and chucked her off the ship with cannonballs to weigh her down.
 
 ---
 
