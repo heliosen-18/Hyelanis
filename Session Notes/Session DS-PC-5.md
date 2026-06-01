@@ -155,6 +155,7 @@ Standing amidst the bones and the pulsing light are the guardians of the rift:
 - f
 - Everywhere Bluerot from Syrgaul
 - Alister Bluerot from Syrgaul
+- Left Portal to Hell open?!?!?!
 
 ---
 
