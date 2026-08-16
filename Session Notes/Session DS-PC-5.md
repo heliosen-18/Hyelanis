@@ -156,7 +156,7 @@ Standing amidst the bones and the pulsing light are the guardians of the rift:
 - Everywhere Bluerot from Syrgaul
 - Alister Bluerot from Syrgaul
 - Left Portal to Hell open?!?!?!
-- Burial at sea, built casket and chucked her off the ship with cannonballs to weigh her down.
+- Burial at sea for Janore the Cleric of Thassa, built casket and chucked her off the ship with cannonballs to weigh her down.
 - Book Completed!
 - Download Pier map into foundry
 - Harvin gets a Dancing Longsword that also uses spell attack and spell casting focus.

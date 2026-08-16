@@ -24,7 +24,7 @@ darkmode: false ### marker
 - Dwarf Prince of the Mountains  
 - Dwarf Prince of the Sea  
 - Gnome Princess of Forest  
-- Gnome Prince of Swamps  
+- Gnome Princess of Swamps  
 #### Margrave – 1 for each of the large dwarvish cities  
 - Taruum  
 - Men Kuldir  
